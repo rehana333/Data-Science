@@ -1,1 +1,3 @@
 # Data-Science
+Welcome to my data science portfolio! This repository contains a collection of data science case studies and projects...
+This repository serves as a showcase of my data science work, covering a range of topics and analyses. Feel free to explore the different folders to find insights, visualizations, and code related to different datasets and experiments.
